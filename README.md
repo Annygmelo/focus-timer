@@ -6,7 +6,7 @@ Focus Timer
 
 ### Sobre
 
-<p>Clique aqui para vizualizar o projeto <a href="https://annygmelo.github.io/focus-timer-desafio-/">link</a><p>
+<p>Clique aqui para vizualizar o projeto <a href="https://annygmelo.github.io/focus-timer/">link</a><p>
 
 <p>Este é o FocusTimer-DarkMode!! O projeto foi feito com o intuito de estudar mais conceitos sobre a DOM no javascript, com muitas funcionalidades para poder aproveitar!</p>
 
